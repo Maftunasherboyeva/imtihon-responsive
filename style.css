@@ -197,11 +197,12 @@ a {
 }
 .card-image {
   width: 394px;
-  border: 1px solid red;
 }
+
 .card-image img {
   padding-bottom: 26px;
 }
+
 .card-image span {
   padding-bottom: 14px;
   color: var(--paragraph-color, #afadb5);
