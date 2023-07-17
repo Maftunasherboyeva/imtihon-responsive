@@ -1,0 +1,231 @@
+@media (max-width: 468px) {
+  .container {
+    max-width: 375px;
+  }
+  .navbar-brand img {
+    width: 32px;
+  }
+  .theme h1 {
+    font-size: 22px;
+    letter-spacing: 0.26px;
+  }
+  .theme p {
+    font-size: 14px;
+  }
+  .icon-theme {
+    width: 327px;
+  }
+  .theme {
+    max-width: 327px;
+  }
+  .theme .star {
+    width: 24px;
+    top: 125px;
+    right: 66px;
+  }
+  .theme .vector {
+    top: 108px;
+    left: -48px;
+  }
+  .theme .vector img {
+    width: 83px;
+  }
+  .input {
+    position: unset;
+    width: 327px;
+    padding: 14px;
+  }
+  .background > img {
+    width: 327px;
+    height: 160px;
+  }
+  .input-background {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  .input input {
+    font-size: 14px;
+    max-width: 120px;
+  }
+  .input button {
+    padding: 15px 54px;
+    font-size: 14px;
+  }
+  .icons-search i {
+    font-size: 14px;
+    gap: 14px;
+  }
+  .boxs {
+    flex-direction: column;
+  }
+  .benifits {
+    display: flex;
+    flex-direction: column;
+  }
+  .qism1 span {
+    font-size: 14px;
+  }
+  .benifits .qism1 h1 {
+    font-size: 24px;
+  }
+  .benifits .qism2 p {
+    font-size: 14px;
+  }
+  .benifits .qism1 {
+    width: 233px;
+  }
+  .benifits .qism2 {
+    width: 327px;
+  }
+  .product {
+    max-width: 327px;
+  }
+  .product span {
+    font-size: 14px;
+  }
+  .product h1 {
+    font-size: 24px;
+  }
+  .product p {
+    font-size: 14px;
+  }
+  .card-image {
+    width: 220px;
+  }
+  .card-image img {
+    padding-bottom: 14px;
+    width: 220px;
+  }
+  .card-image span {
+    font-size: 12px;
+  }
+  .card-imageh4 {
+    font-size: 16px;
+  }
+  .card-image p {
+    font-size: 14px;
+  }
+  .card-image h3 {
+    font-size: 15px;
+  }
+  .card-images {
+    display: flex;
+    gap: 20px;
+    max-width: 468px;
+  }
+  .more {
+    flex-wrap: wrap;
+    max-width: 313px;
+  }
+  .more h1 {
+    font-size: 24px;
+  }
+  .more a {
+    padding: 15px 15px;
+    gap: 10px;
+    font-size: 14px;
+  }
+  .foo-matn {
+    flex-direction: column;
+    width: 327px;
+  }
+  .foo-matn p {
+    font-size: 14px;
+    color: #afadb5;
+  }
+  .footer-teg {
+    flex-direction: column;
+    padding-top: 80px;
+    max-width: 327px;
+    margin: 0 auto;
+  }
+  .new a {
+    color: #afadb5;
+    gap: 6px;
+    font-size: 14px;
+  }
+  .new h4 {
+    padding-bottom: 14px;
+    font-size: 16px;
+  }
+  .follow {
+    gap: 33px;
+  }
+  .ourProduct {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .crafted {
+    max-width: 279px;
+  }
+  .crafted span {
+    font-size: 14px;
+  }
+  .crafted h1 {
+    font-size: 24px;
+    padding-bottom: 16px;
+  }
+  .treeP {
+    width: 327px;
+    padding-bottom: 30px;
+  }
+  .treeP p {
+    font-size: 14px;
+  }
+  .tree a {
+    width: 327px;
+  }
+  .year {
+    padding-top: 30px;
+    gap: 20px;
+  }
+  .year .pnj h4 {
+    font-size: 22px;
+  }
+  .year .pnj p {
+    font-size: 14px;
+  }
+  .tree img {
+    width: 327px;
+  }
+  .soft img {
+    width: 327px;
+  }
+  .testimonials {
+    width: 327px;
+  }
+  .testimonials span {
+    font-size: 14px;
+  }
+  .testimonials h1 {
+    font-size: 24px;
+  }
+  .testimonials p {
+    font-size: 14px;
+  }
+  .janne {
+    width: 327px;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 16px;
+  }
+  .janne2 {
+    display: none;
+  }
+  .janne img {
+    width: 32px;
+  }
+  .janne p {
+    font-size: 14px;
+  }
+  .janne .account img {
+    width: 24px;
+  }
+  .janne .account h4 {
+    font-size: 14px;
+  }
+  .janne .yulduz {
+    font-size: 14px;
+  }
+}
