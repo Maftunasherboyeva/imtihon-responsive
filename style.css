@@ -194,6 +194,8 @@ a {
   display: flex;
   justify-content: space-around;
   padding-bottom: 90px;
+  max-width: 100%;
+  overflow: scroll;
 }
 .card-image {
   width: 394px;
